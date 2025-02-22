@@ -31,7 +31,9 @@ This project predicts customer churn using machine learning models such as Logis
   - Precision: 83%
   - Recall: 93%
 
-![Confusion Matrices](your-image-link.png)
+![Confusion Matrices](https://github.com/poojitha-talluru/customer-churn-prediction/blob/main/Confusion_Matrix.png?raw=true)
+
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
