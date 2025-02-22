@@ -9,7 +9,7 @@ This project predicts customer churn using machine learning models such as Logis
 - **Target Variable**: `Churn` (Yes/No)
 
 ## 🛠 Tech Stack
-- **Programming Language**: Python 🐍
+- **Programming Language**: Python 
 - **Libraries**: Pandas, Matplotlib, Seaborn, Scikit-Learn, Joblib
 - **Version Control**: Git & GitHub
 
